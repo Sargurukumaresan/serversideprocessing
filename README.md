@@ -7,22 +7,24 @@ To design a website to perform mathematical calculations in server side.
 
 ### Step 1:
 
+Create a new django project and app.
 
 
 ### Step 2:
 
+Make on changes in settings and create templates folder.
 
 ### Step 3:
 
-
+Create a code for frontend of calculation using HTML and CSS and save it in templates
 
 ### Step 4:
 
-
+Give an url mapping and write a python code for calculation in views.
 
 ### Step 5:
 
-
+Take a screenshotof the site and upload it.
 
 ### Step 6:
 
@@ -130,8 +132,7 @@ def rectarea(request):
 ![output](./area.png)
 
 
-### Home Page:
-
 
 ## Result:
+Thus a website to perform mathematical calculations in server side is developed.
 
